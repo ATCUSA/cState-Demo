@@ -2,7 +2,7 @@
 section: issue
 title: File Directory API Down
 date: 2020-03-03T20:45:17.509Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: 2020-03-03T20:45:17.521Z
 affected:
